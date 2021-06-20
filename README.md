@@ -21,3 +21,13 @@
     <li>Compute cost for regularized LR & Gradient for regularized LR *------* costFunctionReg.m</li>
   </ul>
 </p>
+
+<h4>Ex3<h4/>
+<p>
+  <ul>
+    <li>Regularized Logisic Regression *------* lrCostFunction.m</li>
+    <li>One-vs-all classifier training *------* oneVsAll.m</li>
+    <li>One-vs-all classifier prediction *------* predictOneVsAll.m</li>
+    <li>Neural Network Prediction Function *------* predict.m</li>
+  </ul>
+</p>
