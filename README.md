@@ -11,3 +11,13 @@
     <li>Gradient descent for multiple variables *------* gradientDescentMulti.m</li>
   </ul>
 </p>
+
+<h4>Ex2<h4/>
+<p>
+  <ul>
+    <li>Sigmoid Function *------* sigmoid.m</li>
+    <li>Compute cost for logistic regression & Gradient for logistic regression *------* costFunction.m</li>
+    <li>Predict Function *------* predict.m</li>
+    <li>Compute cost for regularized LR & Gradient for regularized LR *------* costFunctionReg.m</li>
+  </ul>
+</p>
