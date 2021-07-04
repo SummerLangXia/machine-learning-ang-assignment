@@ -31,3 +31,31 @@
     <li>Neural Network Prediction Function *------* predict.m</li>
   </ul>
 </p>
+
+<h4>Ex4<h4/>
+<p>
+  <ul>
+    <li>Feedforward and Cost Function & Regularized Cost Function & Neural Net Gradient Function (Backpropagation) & Regularized Gradient *------* nnCostFunction.m</li>
+    <li>Sigmoid Gradient *------*sigmoidGradient.m</li>
+  </ul>
+</p>
+
+<h4>Ex5<h4/>
+<p>
+  <ul>
+    <li>Regularized Linear Regression Cost Function & Regularized Linear Regression Gradient *------* linearRegCostFunction.m</li>
+    <li>linearRegCostFunction *------* learningCurve.m</li>
+    <li>Polynomial Feature Mapping *------* polyFeatures.m</li>
+    <li>Cross Validation Curve *------* validationCurve.m</li>
+  </ul>
+</p>
+
+<h4>Ex6<h4/>
+<p>
+  <ul>
+    <li>Gaussian Kernel *------* gaussianKernel.m</li>
+    <li>Parameters (C, σ) for Dataset 3 *------* dataset3Params.m</li>
+    <li>Email Preprocessing *------* processEmail.m</li>
+    <li>Email Feature Extraction *------* emailFeatures.m</li>
+  </ul>
+</p>
